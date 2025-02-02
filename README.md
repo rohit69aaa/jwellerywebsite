@@ -1,6 +1,6 @@
 # jwellerywebsite
 Jwellery website
-[Uploading banner…]()
+
 ![bg-3](https://github.com/user-attachments/assets/a62cc1cf-84d6-4514-b28a-0bf4fb18f963)
 ![bg-2](https://github.com/user-attachments/assets/2c78246b-b020-4cf4-828e-8eec5736dcf2)
 ![bg-1](https://github.com/user-attachments/assets/3ae36a94-3c0d-4503-a061-56136c88f3f0)
